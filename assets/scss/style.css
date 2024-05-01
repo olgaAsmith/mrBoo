@@ -1,0 +1,20 @@
+@import "normalize.css";
+@import "../fonts/fonts.css";
+@import "./blocks/base/general.css";
+@import "./blocks/header/header.css";
+@import "./blocks/footer/footer.css";
+@import "./blocks/info/info.css";
+@import "./blocks/menu/menu.css";
+@import "./blocks/logo/logo.css";
+@import "./blocks/presentation/presentation.css";
+@import "./blocks/socials/socials.css";
+@import "./blocks/profile/profile.css";
+@import "./blocks/sale/sale.css";
+@import "./blocks/gallery/gallery.css";
+@import "./blocks/textlink/textlink.css";
+
+
+
+
+
+

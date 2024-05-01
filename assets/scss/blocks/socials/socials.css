@@ -1,0 +1,19 @@
+.socials {
+  display: flex;
+  gap: 90px;
+}
+.socials__icon {
+  width: 61px;
+  height: 61px;
+}
+
+@media screen and (max-width: 780px) {
+  .socials {
+    display: flex;
+    gap: 28px;
+  }
+  .socials__icon {
+    width: 54px;
+    height: 54px;
+  }
+}

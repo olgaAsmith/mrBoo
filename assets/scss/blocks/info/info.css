@@ -1,0 +1,14 @@
+.info {
+  display: flex;
+  background-color: #004AAD;
+}
+.info__presentation {
+  margin-left: auto;
+}
+
+@media screen and (max-width: 1280px) {
+  .info__presentation {
+    margin-left: 0;
+    padding: 0 0 53px;
+  }
+}

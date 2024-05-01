@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Long Cang';
+    src: url('LongCang-Regular.woff2') format('woff2'),
+        url('LongCang-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Just Me Again Down Here';
+    src: url('JustMeAgainDownHere.woff2') format('woff2'),
+        url('JustMeAgainDownHere.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

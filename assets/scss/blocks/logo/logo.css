@@ -1,0 +1,19 @@
+.logo {
+  color: #FFF;
+  text-align: center;
+  font-family: "Just Me Again Down Here";
+  font-size: 83px;
+  line-height: normal;
+}
+
+@media screen and (max-width: 1024px) {
+  .logo {
+    margin-left: 40px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo {
+    margin-left: 0;
+  }
+}
