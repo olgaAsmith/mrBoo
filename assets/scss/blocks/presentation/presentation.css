@@ -37,6 +37,7 @@
 .presentation__image {
   width: 474px;
   height: 474px;
+  object-fit:  cover;
   margin-top: 100px;
 }
 .presentation__line {
